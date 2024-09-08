@@ -15,4 +15,4 @@ Eu desenvolvi uma ferramenta automatizada para monitorar o status de vários sit
 
 ## Futuras Implementações:
 Futuramente, vou adicionar uma opção para enviar um **e-mail de notificação** sempre que algum servidor monitorado ficar offline. Isso permitirá uma resposta ainda mais rápida a eventuais problemas.
-![PingAlert](PingAlert.png)
+![PingAlert](PingAlert.jpg)
