@@ -3,7 +3,7 @@
  * --------------------------------------------------------------------
  * ATENÇÃO, KIBADORES!
  * Desenvolvido por: @zBL4CKHATOFICIAL
- * Data: 26/08/2024
+ * Data: 07/09/2024
  * --------------------------------------------------------------------
  * Este código é resultado de trabalho árduo e dedicação. Se você está
  * utilizando este código, lembre-se de manter os créditos intactos.
