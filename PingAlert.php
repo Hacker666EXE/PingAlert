@@ -38,7 +38,7 @@ function check_url($url) {
     curl_setopt($ch, CURLOPT_NOBODY, true);
     curl_setopt($ch, CURLOPT_TIMEOUT, 10);
 
-    // Desabilitar a verificação do certificado SSL
+
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
     curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
     
